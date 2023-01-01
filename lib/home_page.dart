@@ -12,8 +12,7 @@ class HomePage extends StatelessWidget {
       body: Column(children: const [
         CircleAvatar(),
         Text('working on stashes'),
-        Text('This is working'),
-        Text('working')
+        Text('This is a test')
       ]),
     );
   }
