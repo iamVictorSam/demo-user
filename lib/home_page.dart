@@ -18,6 +18,7 @@ class HomePage extends StatelessWidget {
         Text('This is a test'),
         Text('This is a test'),
         Text('This is a test'),
+        Text('This is a test'),
       ]),
     );
   }
