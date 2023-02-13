@@ -9,7 +9,12 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('data'),
       ),
-      body: Column(children: const [CircleAvatar()]),
+      body: Column(children: const [
+        CircleAvatar(),
+        Text('working on stashes'),
+        Text('This is working'),
+        Text('working')
+      ]),
     );
   }
 }
